@@ -1,5 +1,7 @@
 # Multi-Zone Event Parking System (Comic-Con India)
 
+<img width="1440" height="776" alt="Screenshot 2026-04-10 at 12 23 23 AM" src="https://github.com/user-attachments/assets/6fd565bc-d550-4e78-9baf-068f8ae178a7" />
+
 A comprehensive database architecture and ER design for managing high-traffic parking logistics during large-scale events like Comic-Con India.
 
 ## Project Context
